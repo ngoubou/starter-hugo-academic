@@ -10,13 +10,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:ralphngoubou@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/ngoubou
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: CNAM
     url: https://www.cnam-paris.fr/

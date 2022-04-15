@@ -1,5 +1,5 @@
 ---
-role: Professor of Artificial Intelligence
+role: Statistics student
 avatar_filename: avatar.jpeg
 bio: My research interests include linear models, programming and convex
   optimization.

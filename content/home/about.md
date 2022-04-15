@@ -10,4 +10,3 @@ design:
   background:
     image: ""
 ---
-I am pleased to be here cause here is soo so great

@@ -30,15 +30,9 @@ highlight_name: true
 title: Ralph Ngoubou
 email: ""
 ---
-I am a Bachelor’s degree student in Statistics at Conservatoire National des Arts et Métiers Paris. I am interested in statistics, computer science and education
+I am a Bachelor’s degree student in Statistics at Conservatoire National des Arts et Métiers Paris. I am interested in statistics, computer science and education.
 
-For the past five years, I’ve been a Business Analyst at Umojà Shoes, a company that produces shoes with artisanal fabrics from Africa.
-
-I also am a Private Teacher in Mathematics, English and French. I teach kids from Primary to High school.
-
-Since 2021, I am also an independant consultant helping people solving their data analyses problems. 
-
- I also have a Bachelor’s degree in Economics from the University of Angers where I focused on Econometrics, Strategic Management, Monetary Theory, Microeconomics and Macroeconomics.
+For the past five years, I’ve been a Business Analyst at Umojà Shoes, a company that produces shoes with artisanal fabrics from Africa. I also am an independant consultant in statistics helping people solving their data analyses problems. 
 
 When I’m not learning Statistics, I watch a lot of Basketball games and read poems. The best way to get in touch with me is by email or Github (by clicking on one of the icons below my picture).
 

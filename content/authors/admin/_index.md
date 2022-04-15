@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://github.com/ngoubou
 organizations:
-  - name: CNAM
+  - name: Conservatoire National des Arts et Métiers
     url: https://www.cnam-paris.fr/
 education:
   courses:

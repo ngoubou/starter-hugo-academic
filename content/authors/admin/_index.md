@@ -1,8 +1,8 @@
 ---
 role: Professor of Artificial Intelligence
 avatar_filename: avatar.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include linear models, programming and convex
+  optimization.
 interests:
   - Statistics
   - Computer Science
@@ -34,6 +34,6 @@ I am a Bachelor’s degree student in Statistics at Conservatoire National des A
 
 For the past five years, I’ve been a Business Analyst at Umojà Shoes, a company that produces shoes with artisanal fabrics from Africa. I also am an independant consultant in statistics helping people solving their data analyses problems. 
 
-When I’m not learning Statistics, I watch a lot of Basketball games and read poems. The best way to get in touch with me is by email or Github (by clicking on one of the icons below my picture).
+When I’m not learning statistics, I watch a lot of basketball games and read poems. The best way to get in touch with me is by email or Github (by clicking on one of the icons below my picture).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

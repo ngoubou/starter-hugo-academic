@@ -6,9 +6,11 @@ url_video: ""
 date: 2022-04-15T19:53:22.209Z
 external_link: ""
 url_slides: ""
-title: Example Project
+title: "Police killings in the United States "
+subtitle: A statistical approach using factor analysis
 tags:
   - Multivariate Statistics
+categories: []
 links: []
 image:
   caption: Photo by rawpixel on Unsplash

@@ -4,9 +4,9 @@ avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
+  - Computer Science
+  - Education
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,19 +15,16 @@ social:
     icon_pack: fab
     link: https://github.com/ngoubou
 organizations:
-  - name: Conservatoire National des Arts et Métiers
+  - name: CNAM
     url: https://www.cnam-paris.fr/
 education:
   courses:
     - course: BSc in Applied Mathematics
       institution: Conservatoire National des Arts et Métiers
       year: 2022
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA in Economics
+      institution: Université d'Angers
+      year: 2014
 superuser: true
 highlight_name: true
 title: Ralph Ngoubou

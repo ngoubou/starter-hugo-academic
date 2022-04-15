@@ -30,9 +30,16 @@ highlight_name: true
 title: Ralph Ngoubou
 email: ""
 ---
+I am a Bachelor’s degree student in Statistics at Conservatoire National des Arts et Métiers Paris. I am interested in statistics, computer science and education
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+For the past five years, I’ve been a Business Analyst at Umojà Shoes, a company that produces shoes with artisanal fabrics from Africa.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also am a Private Teacher in Mathematics, English and French. I teach kids from Primary to High school.
+
+Since 2021, I am also an independant consultant helping people solving their data analyses problems. 
+
+ I also have a Bachelor’s degree in Economics from the University of Angers where I focused on Econometrics, Strategic Management, Monetary Theory, Microeconomics and Macroeconomics.
+
+When I’m not learning Statistics, I watch a lot of Basketball games and read poems. The best way to get in touch with me is by email or Github (by clicking on one of the icons below my picture).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,8 +1,8 @@
 ---
 role: Statistics student
 avatar_filename: avatar.jpeg
-bio: My research interests include linear models, programming and convex
-  optimization.
+bio: My research interests include linear models, multivariate statistics and
+  convex optimization.
 interests:
   - Statistics
   - Computer Science
